@@ -33,3 +33,7 @@ This project analyzes retail sales data using SQL and Tableau to identify sales 
 
 ## Dashboard
 Interactive Tableau dashboard created for business performance monitoring and trend analysis.
+
+## Live Dashboard
+View the interactive Tableau dashboard here:
+https://public.tableau.com/views/SalesPerformanceDashboard_17794011191550/SalesPerformanceDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
